@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-Hello! I'm **Mohammad Hossein Tazaroei**, a passionate **MERN Stack Developer** with a love for **Express.js** based in <b>Automoby</b>. 🚀
+Hello! I'm <h5>Mohammad Hossein Tazaroei</h5>, a passionate  <b>MERN Stack Developer</b> with a love for <b>Express.js</b>based in <b>Automoby</b>. 🚀
 
 I thrive on turning ideas into interactive and user-friendly web applications. My goal is to create elegant, efficient, and secure solutions that make a positive impact.
 
