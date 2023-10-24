@@ -14,8 +14,11 @@ I thrive on turning ideas into interactive and user-friendly web applications. M
 
 <h3>Let's Connect</h3>
 
-- 📫 Feel free to connect with me on <a href="dsafdasf">LinkedIn</a>.
-- 🐦 Subsribe my tech adventures on <a href="dsafdasf">Youtube</a>.
-- 🌐 Visit my <a href="mohammadhosseintazaroie.dev">Website</a> to learn more about my projects and skills.
+<ul>
+  <li>📫 Feel free to connect with me on <a href="dsafdasf">LinkedIn</a>.</li>
+<li>🐦 Subsribe my tech adventures on <a href="dsafdasf">Youtube</a>.</li>
+<li>🌐 Visit my <a href="mohammadhosseintazaroie.dev">Website</a> to learn more about my projects and skills.</li>
+
+</ul>
 
 Let's work together to turn your ideas into reality and build exceptional web experiences! 😊
