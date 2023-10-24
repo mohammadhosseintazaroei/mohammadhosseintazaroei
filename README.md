@@ -8,10 +8,12 @@ I thrive on turning ideas into interactive and user-friendly web applications. M
 
 <h3>What I Do</h3> 
 
-- 👨‍💻 I work with the **MERN (MongoDB, Express.js, React, Node.js)** stack to build robust web applications.
-- 🌱 I'm committed to continuous learning and staying up-to-date with the latest web development trends.
-- 💬 I enjoy collaborating with others and sharing knowledge about web development, JavaScript, and technology in general.
+<ul>
+  <li>👨‍💻 I work with the **MERN (MongoDB, Express.js, React, Node.js)** stack to build robust web applications.</li>
+<li>🌱 I'm committed to continuous learning and staying up-to-date with the latest web development trends.</li>
+<li>💬 I enjoy collaborating with others and sharing knowledge about web development, JavaScript, and technology in general.</li>
 
+</ul>
 <h3>Let's Connect</h3>
 
 <ul>
