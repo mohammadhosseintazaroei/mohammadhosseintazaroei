@@ -1,7 +1,5 @@
 # Mohammad Hossein Tazaroei
 
-![Profile Image](Your_Profile_Image_URL)
-
 Hi there! I'm Mohammad Hossein Tazaroei, a passionate MERN Stack Developer based in [Your_Location]. 🚀
 
 - 👨‍💻 I'm currently working on various web projects using the MERN (MongoDB, Express.js, React, Node.js) stack.
@@ -11,7 +9,7 @@ Hi there! I'm Mohammad Hossein Tazaroei, a passionate MERN Stack Developer based
 ## Find Me Online
 
 - 📫 Connect with me on <a href="dsafdasf">LinkedIn</a>
-- 🐦 Follow me on [Twitter](Your_Twitter_Profile_URL)
-- 🌐 Visit my [Personal Website](Your_Personal_Website_URL)
+- 🐦 Subscribe me on <a href="dsafdasf">Youtube</a>
+- 🌐 Visit my <a href="mohammadhosseintazaroe.dev">Website</a>
 
 Let's collaborate and create amazing things together! 😊
